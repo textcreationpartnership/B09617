@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A lottery licensed by His Royal Highness the Duke of York, and assistants of the Corporation of the Royal Fishing, errected by the author, for the vending certain volumes of his own books.</title>
+            <author>Ogilby, John, 1600-1676.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09617</idno><idno type="EEBO-CITATION">64551531</idno>
+  <idno type="VID">184678</idno>
+  <idno type="EEBO-PROQUEST">2240862802</idno>
+  
+            <idno type="STC">Wing O177AA</idno>
+            <idno type="STC">ESTC R224310</idno>
+            <idno type="OCLC">64551531</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09617)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184678)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2870:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A lottery licensed by His Royal Highness the Duke of York, and assistants of the Corporation of the Royal Fishing, errected by the author, for the vending certain volumes of his own books.</title>
+                  <author>Ogilby, John, 1600-1676.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1664]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to John Ogilby.  Cf. Wing (2nd ed.).</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Booksellers and bookselling --  England --  Early works to 1800.</term>
+               <term type="topical_term">Lotteries --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184678:1"/>
+            <head>A LOTTERY Licensed by His Royal Highness the Duke of <hi>York,</hi> and Assistants of the Corporation of the <hi>Royal Fishing,</hi> Erected by the Author, for the vending o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ert<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in Volumes of his own Books.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas <hi>John Ogilby</hi> Esq; who hath in several years last past, Printed and Published at his own charge, several Volumes of great Value and Beauty, such as our <hi>English</hi> Imprimarie had been altogether unacquainted with heretofore, <hi>viz. Aesop's Fables</hi> Paraphrased and adorn'd with Sculptures, <hi>Virgil,</hi> Prince of <hi>Latine</hi> Poets, Translated, Illustrated with Notes, and adorn'd with Sculptures; <hi>Homer,</hi> Prince of all Poets, his <hi>Iliads</hi> in like manner, set forth and Dedicated to the King's most Excellent Majesty; and next, a Royal <hi>Bible</hi> Printed at <hi>Cambridge,</hi> Dedicated to His Majesty, Illustrated with Maps and Chorographical Presentations, fifty of them being Imperial, to be bound in two, or three great Volumes, with not o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly Chorographical, but Historical adornations; and lastly <hi>His Majesties Entertainments</hi> on the 22. of <hi>April,</hi> 1661. passing through the <hi>City</hi> to His <hi>Coronation,</hi> and His <hi>Coronation,</hi> wherein is Engraven the whole <hi>Caval-Cade,</hi> the <hi>Triumphal Arches,</hi> their <hi>Inscriptions, Figures,</hi> Aenigmatical <hi>Emblems,</hi> indeed the whole Poetical Conduct, Illu<g ref="char:EOLhyphen"/>strated and defended by <hi>noted</hi> Observations, drawn both from <hi>Modern, Antient</hi> and most <hi>Authentick</hi> Writers.</p>
+            <p>The Author therefore having a virtuous Ambition, to perfect these his former Labours, being the Work of twenty years, by the Addition of <hi>Homer's Odysses,</hi> long looked for, now Printed and ready to be Published, with Notes also and Sculptures; and his <hi>Aesop's Fables,</hi> a scarce Book also reprinted, with additional Annotations, and the adaption of it for the better joyning and binding up with his other Works in a Royal Folio; and having yet upon his hands, to his great prejudice, several of all the fore<g ref="char:EOLhyphen"/>mentioned Volumes, though many of them had a fair reception, by his munificent Friends and Patrons: And that his Majesties imployments calls him suddenly elsewhere, doth as he supposeth by very good advice propound an expeditious means to dispose of this his whole Stock in a few moneths, which else would not drop off Book by Book, in many years. And to those that please and are desirous of them at less than half their well known Price and Value, by putting them thus into the hands of Fortune, <hi>a standing LOTTERY,</hi> who, though a blind dispencer of her favours, and oftener mistaking on the wrong side, than on the right, shall here send all those Adventurers, who are pleased to put in for their Chance, home contented more or less, since they are all <hi>Prizes.</hi>
+            </p>
+            <div type="part">
+               <head>
+                  <hi>To be ordered and disposed after this manner,</hi> First, Whosoever will adventure, may be pleased to put in fourty Shillings for each Lot, Of which these are the number and value.</head>
+               <list>
+                  <head>The first and greatest, containes these BOOKS.</head>
+                  <item>
+                     <hi>His Majesties Entertainment</hi> passing through the <hi>City</hi> to His <hi>Coronation;</hi> and <hi>Coronation,</hi> Valued 2 <hi>l.</hi>
+                  </item>
+                  <item>
+                     <hi>Aesops Fables</hi> Paraphrased, in Folio with Sculps and Annotations, never published before, Val. 3 <hi>l.</hi>
+                  </item>
+                  <item>
+                     <note place="margin">1 <hi>Lot Numb.</hi> 1.</note>
+                     <hi>Homers Odysses</hi> Translated with Sculps and Anno<g ref="char:EOLhyphen"/>tations, never Published, Val. 4 <hi>l.</hi>
+                  </item>
+                  <item>
+                     <hi>Homers Iliads</hi> Translated, and already Published, Val. 5 <hi>l.</hi>
+                  </item>
+                  <item>
+                     <hi>Virgil</hi> Translated with Sculp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and Annotations, Val. 5 <hi>l.</hi>
+                  </item>
+                  <item>A Royal <hi>Bible</hi> with <hi>Chorographical</hi> Sculps, Val. 5 <hi>l.</hi>
+                  </item>
+                  <item>An Imperial <hi>Bible</hi> with <hi>Chorographical,</hi> and an hun<g ref="char:EOLhyphen"/>dred <hi>Historical</hi> Scul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, Valued 25 <hi>l.</hi>
+                  </item>
+                  <item>In all 49. Pounds.</item>
+               </list>
+               <list>
+                  <head>
+                     <note place="margin">3 <hi>Lot Numb.</hi> 2.</note>The second Prize contains.</head>
+                  <item>One Imperial <hi>Bible</hi> with all the Sculps, with <hi>Homers</hi> Works in two Volumes, Valued 34 <hi>l.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>The third Prize.</head>
+                  <item>
+                     <note place="margin">3 <hi>Lot Num.</hi> 3.</note>One Imperial <hi>Bible</hi> with all the Sculps, and an <hi>English Virgil,</hi> Val. 30 <hi>l.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>The fourth.</head>
+                  <item>
+                     <note place="margin">1 <hi>Lot Num.</hi> 4.</note>One Imperial <hi>Bible</hi> with all the Sculps, and a new <hi>Aesop,</hi> and the <hi>Kings Entertainment,</hi> Valued 30 <hi>l.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>The fifth.</head>
+                  <item>
+                     <note place="margin">1 <hi>Lot Num.</hi> 5.</note>One Imperial <hi>Bible</hi> with all the Sculps, Val. 25 <hi>l.</hi> 25 <hi>l.</hi>
+                  </item>
+                  <item>
+                     <note place="margin">20 <hi>Lott N<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>.</hi> 0.</note>
+                     <hi>Twenty Prizes,</hi> each an Imperial <hi>Bible</hi> with <hi>Choro<g ref="char:EOLhyphen"/>graphical</hi> Sculps, at twenty Pound a Lot, Val. 400 <hi>l.</hi> 400 <hi>l.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>The twenty sixth Prize.</head>
+                  <item>One <hi>Entertainment,</hi> one <hi>Aesop,</hi> one <hi>Virgil,</hi> one <hi>Bible Royal,</hi>
+                     <note place="margin">5 <hi>Lots Num.</hi> 7.</note>
+                     <hi>Homers Iliads</hi> and <hi>Odysses,</hi> Valued 25 <hi>l.</hi> 25 <hi>l.</hi>
+                  </item>
+                  <item>Four Lots more of the same <hi>Books,</hi> Val. 25 <hi>l.</hi> 100 <hi>l.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Five Prizes each containing,</head>
+                  <item>
+                     <note place="margin">5 <hi>Lot N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n.</hi> 8.</note>One <hi>Aesop</hi> one <hi>Virgil,</hi> two <hi>Homers,</hi> Valued 17 <hi>l</hi> 85 <hi>l.</hi>
+                  </item>
+                  <item>
+                     <note place="margin">5 <hi>Lots Num.</hi> 9.</note>
+                     <hi>Five Prizes,</hi> one <hi>Virgil</hi> and two <hi>Homers,</hi> Valued 14 <hi>l.</hi> 70 <hi>l.</hi>
+                  </item>
+                  <item>
+                     <note place="margin">25 <hi>Lots N.</hi> 10</note>
+                     <hi>Twenty five Prizes,</hi> two <hi>Homers,</hi> Valued 9 <hi>l.</hi> 225 <hi>l.</hi>
+                  </item>
+                  <item>
+                     <note place="margin">90 <hi>Lots N.</hi> 11.</note>
+                     <hi>Ninty Prizes,</hi> Bibles <hi>Verney</hi> Royal, Valued 5 <hi>l.</hi> 450 <hi>l.</hi>
+                  </item>
+                  <item>
+                     <note place="margin">90 <hi>Lots N.</hi> 12.</note>
+                     <hi>Ninty Prizes Virgil,</hi> Translated, Valued 5 <hi>l.</hi> 450 <hi>l.</hi>
+                  </item>
+                  <item>
+                     <note place="margin">350 <hi>Lots N</hi> 13.</note>
+                     <hi>Three hundred and fifty Prizes, Homers Iliads</hi> Val. 5 <hi>l.</hi> 1750 <hi>l.</hi>
+                  </item>
+                  <item>
+                     <note place="margin">500 <hi>Lots N</hi> 14.</note>
+                     <hi>Five hundred Prizes, Odysses,</hi> Valued, 4 <hi>l.</hi> 2000 <hi>l.</hi>
+                  </item>
+                  <item>
+                     <note place="margin">500 <hi>Lots N</hi> 15.</note>Five Hundred <hi>Aesops,</hi> Valued 3 <hi>l.</hi> 1500 <hi>l.</hi>
+                  </item>
+                  <item>
+                     <note place="margin">225 <hi>Lot<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> N</hi>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>6.</note>Two Hundred and five and twenty <hi>En<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ertainments,</hi> Valued 2 <hi>l.</hi> 450 <hi>l.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>The number of Blanks, One;</head>
+                  <item>Which whosoever draws, shall be presented by the Author.</item>
+               </list>
+               <p>His <hi>Majesties Entertainment,</hi> being the lowest <hi>Prize</hi> is a very fair and a scarce Book, valued at fourty Shillings, which is the money that is put in, and it is eight to one, if you draw not higher: The whole value of all the Books as they are apprized at above (being the prices they have been usually disposed at) comes to 7620 <hi>l.</hi>
+               </p>
+               <p>The number of <hi>Lotts</hi> in all 1820. at 40 <hi>s.</hi> each, amounts to 3640 <hi>l.</hi> So that the adventurers will have the Volumes abovesaid, for less then half of what they would yield in process of time Book by Book. Therefore this seemes rather the reverss of a <hi>Lottery;</hi> because in all other Lotteries, there is so much gain propos'd, in this so much loss, he wanting time being otherwise imployd, to persue the profit.</p>
+               <p>The Time, the Author doubts not, if Adventurers cheerfully bring in their Money, to be in four moneths, beginning on the 16 of <hi>November.</hi> 1664. There being 500. Adventurers already. The Places where the Money is to be payd in and they receive their Tickets, which secures them either their Money or their Lots according to the abovesaid proposals; are at the Flying Horse on Corn-hill, Mr. <hi>Godfrey Richards</hi> Stationer, near the Old Exchange, Mr. <hi>Robert Yarway</hi> in Wood-Street, Mr. <hi>Thomas Roycroft,</hi> in Jewen-Street, without Criple <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ate. Mr. <hi>Heuriat,</hi> Goldsmith, next door to the Castle Tavern in Fleet-Street. At the Authors House, in Kings Head-Court in Shoe-Lane, and Mr. <hi>Francis Coffyn,</hi> Scrivener in Russel-Street, Covent Garden.</p>
+               <p>Of the certain Day and Place, there shall be timely notice given.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
